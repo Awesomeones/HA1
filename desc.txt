@@ -1,2 +1,3 @@
 This is home automation bermuda sensor light controller.
 Made with 3 sets of LDR and lasers used in a triangular configuration to detect motion and operate relay accorrdingly.
+To contribute : Add standalone door configuration or wireless control
